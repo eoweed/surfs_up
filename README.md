@@ -5,14 +5,14 @@
 ##### The purpose of this project is to determine if it is worth opening a year-round surf and ice cream shop on the island of Oahu. The data provided has weather information from January 2010 to August 2017, and the analysis shows a comparison of temperature statistics for the month of June and the month of December.
 
 
-![June Temps]
-![December Temps]
+![June Temps](https://github.com/eoweed/surfs_up/blob/main/Resources/JuneTemps.png)
+![December Temps](https://github.com/eoweed/surfs_up/blob/main/Resources/DecemberTemps.png)
 
 ### Results:
 ##### Differences between June and December:
 ##### - There is almost a 5 degree difference in average temperature.
-    #####         - June: 74.944118
-    #####         - December: 71.041529
+#####         # - June: 74.944118
+#####         # - December: 71.041529
 ##### - The minimum recorded temperature in June is 64 degrees, and the minimum recorded temperature in December is 56 degrees.
 ##### - The maximum recorded temperature in June is 85 degrees, and the minimum recorded temperature in December is 83 degrees.
 
