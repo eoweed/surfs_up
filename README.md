@@ -10,11 +10,9 @@
 
 ### Results:
 ##### Differences between June and December:
-##### - There is almost a 5 degree difference in average temperature.
-#####   - June: 74.944118
-#####   - December: 71.041529
-##### - The minimum recorded temperature in June is 64 degrees, and the minimum recorded temperature in December is 56 degrees.
-##### - The maximum recorded temperature in June is 85 degrees, and the minimum recorded temperature in December is 83 degrees.
+###### -  The average recorded temperature in June is 74.944118, and the average recorded temperature in December is 71.041529. (about a 4 degree difference)
+###### - The minimum recorded temperature in June is 64 degrees, and the minimum recorded temperature in December is 56 degrees. (8 degree difference)
+###### - The maximum recorded temperature in June is 85 degrees, and the maximum recorded temperature in December is 83 degrees. (2 degree difference)
 
 
 ### Summary:
