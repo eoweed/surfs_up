@@ -17,3 +17,15 @@
 
 ### Summary:
 ##### Based on the analysis, the average temperature for the months of June and December only differs by about 5 degrees, and the standard deviation by about 3 degrees for each month. It may be worth opening a year-round surf and ice cream shop if the temperature is consistent. However, the minimum temperature of 56 degrees in December might be too cold for surfing and ice cream. Another analysis should be performed to determine how often the temperature is that low. In comparison, the maximum temperatures for June and December are both above 80 degrees, so it may be worth analyzing how often the temperature is that warm. Lastly, it may also be necessary to update the weather data to include more recent information.
+
+
+### Software:
+##### Python 3.9.12
+##### Jupyter Notebook 6.4.12
+##### Numpy 1.23.0
+##### Pandas 1.4.3
+##### SQLAlchemy 1.4.32
+##### Flask 2.2.2
+##### Matplotlib 3.5.1
+
+
